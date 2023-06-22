@@ -3,11 +3,11 @@
 A movie recommendation system built using Data science and  Python. The frontend is made using Streamlit. And the project is deployd on render server
 
 
-## Snapshot of projec: 
+## Snapshot of project: 
 ![pic](https://github.com/MZKhan18/movie-recommender/assets/83308074/06531c78-8ec2-4852-a6ef-236da4dab72d)
 
 
-## Working Demo https://movie-recommend-app-2r73.onrender.com.
+## Working Demo https://movie-recommend-app-2r73.onrender.com
 
  
 
