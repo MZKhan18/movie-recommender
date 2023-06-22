@@ -2,10 +2,17 @@
 
 A movie recommendation system built using Data science and  Python. The frontend is made using Streamlit. And the project is deployd on render server
 
+
+## Snapshot of projec: 
 ![pic](https://github.com/MZKhan18/movie-recommender/assets/83308074/06531c78-8ec2-4852-a6ef-236da4dab72d)
+
+
+## Working Demo https://movie-recommend-app-2r73.onrender.com.
 
  
 
+NOTE: render provides only 30 minutes of hosting for a free server. So if the site is not opening then the render account should be reloaded by the admin (me). 
+In that case you can DM me about the same and i will activate the server
 
 ## Introduction
 
@@ -57,9 +64,6 @@ The Movie Recommendation System is an application that suggests movies to users 
 
 3. Explore the movie database, rate movies, and receive personalized recommendations.
 
-## Demo
-
-A live demo of the Movie Recommendation System is available at https://movie-recommend-app-2r73.onrender.com.
 
 ## Contributing
 
