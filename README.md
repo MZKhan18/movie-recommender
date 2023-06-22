@@ -2,7 +2,7 @@
 
 A movie recommendation system built using Data science and  Python. The frontend is made using Streamlit. And the project is deployd on render server
 
- ![Movie Recommendation System](pic.png) 
+ ![Movie Recommendation System](movie-recommender/pic.png) 
 
 
 ## Introduction
